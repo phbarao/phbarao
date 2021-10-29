@@ -1,7 +1,6 @@
 ![capa-linkedin-pedro-barao](https://user-images.githubusercontent.com/62365336/139364756-62f56716-8a06-43f0-a07b-57934c50e73f.jpg)
 
-<h3>Hi!</h3>
-<p>I'm a frontend developer from Brazil, currently looking for new oportunities. I started to learn coding in 2019 after nine years working as a web/graphic designer.</p>
+<h3>Hi, I'm Pedro! A frontend developer from Brazil, currently looking for new oportunities. I started to learn coding in 2019 after nine years working as a web/graphic designer.</h3>
 
 ✅   Available for job or freelance opportunities;   
 🚀   Recent focus on frontend, interested in full stack;   
