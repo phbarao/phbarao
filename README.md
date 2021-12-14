@@ -3,15 +3,12 @@
 <h3>Hi, I'm Pedro! A frontend developer from Brazil, currently looking for new oportunities.</h3>
 <p>I started learning how to code in 2019, after nine years working as a web/graphic designer. Since then I've worked hard to improve my skills everyday.</p>
 
-✅   Available for job or freelance opportunities;   
+✅   Available for job opportunities;   
 🚀   Frontend focus, full stack interest;  
 🖥   Using React, React Native, Styled Components, Node, Express, MongoDB, PostgreSQL;   
 🛠   My code is tested using Cypress, Jest and React Testing Library;   
 📝   I use Git and Github for versioning;   
-🔍   I'm currently learning Typescript, Docker and Clean Architecture;   
-🐍.  Python enthusiast;  
-🎛   Would be fun to colaborate on projects envolving music;   
-📈   Would be great to colaborate on solutions for finances and stock market;   
+🔍   I'm currently learning Typescript, Next,js, Docker and Clean Architecture;   
 
 <h3>Connect with me:</h3>
 <p>
