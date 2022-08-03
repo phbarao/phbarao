@@ -5,10 +5,7 @@
 
 ✅   Available for job opportunities;   
 🚀   Frontend focus, full stack interest;  
-🖥   Using React, React Native, Styled Components, Node, Express, MongoDB, PostgreSQL;   
-🛠   My code is tested using Cypress, Jest and React Testing Library;   
-📝   I use Git and Github for versioning;   
-🔍   I'm currently learning Typescript, Next,js, Docker and Clean Architecture;   
+🖥   Using React, Typescript, Node.   
 
 <h3>Connect with me:</h3>
 <p>
