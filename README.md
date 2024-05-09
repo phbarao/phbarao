@@ -2,7 +2,7 @@
 
 <h3>Brazillian full-stack developer</h3>
 
-🖥   Using React, Node and Typescript, Node.   
+🖥   Using React, Node and Typescript.   
 
 <h3>Connect with me:</h3>
 <p>
